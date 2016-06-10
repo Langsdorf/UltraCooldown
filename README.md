@@ -23,4 +23,5 @@ https://github.com/Langsdorf/Minecraft-UltraCooldown/blob/master/src/com/langsdo
 <b>Delay finalizado e adicionado novamente:</b><br>
 <img src="http://prntscr.com/bejsxb/direct"><br>
 
+<h6>Créditos: Essentials, MrPowerGamerBR</h6>
 
